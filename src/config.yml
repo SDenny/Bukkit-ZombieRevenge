@@ -1,0 +1,3 @@
+#For spawn chance, the ratio is 1:spawnChanceValue, so if the spawnChance is set to 5, the ratio would be 1:5. Keep above zero!
+
+spawnChance: 1

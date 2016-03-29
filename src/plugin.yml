@@ -1,0 +1,5 @@
+main: com.minecraftport.zombieRevenge.main
+name: ZombieRevenge
+version: 0.13
+description: Spawns a zombie with configured chance when another zombie is killed.
+author: SDDJ
